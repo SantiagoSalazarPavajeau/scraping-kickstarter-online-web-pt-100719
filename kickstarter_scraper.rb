@@ -9,3 +9,5 @@ def create_project_hash
   
 
 end
+
+open fixtures/kickstarter.html
